@@ -4,4 +4,4 @@ This repository contains LAB ASSIGNMENTS for the course Machine Learning (ITA601
 
 ## Instructor
 
-Dominic Savio M
+Dr. Dominic Savio M
